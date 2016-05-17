@@ -1,0 +1,75 @@
+.jumbotron {
+	background-color: rgba(0,0,0,0.4);
+	width:800px;
+	margin-right: auto;
+	margin-left: auto;
+	color: #ffffff;
+}
+
+.panel-heading h1{
+	text-align: center;
+	font-family: 'Calibri';
+}
+
+.panel-heading ul{
+	background-color: rgba(0,0,0,0.4);
+}
+
+.panel-heading a{
+	color: #ffffff;
+}
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+  color: #fff;
+  background-color: rgba(0,0,0,0.6);
+  border-color: rgba(0,0,0,0.8);
+}
+
+.nav-tabs {
+  border-bottom: 1px solid #000;
+}
+
+.nav-tabs  li  a:hover{
+	color: #555;
+	background-color: rgba(0,0,0,0.6);
+	border-color: rgba(0,0,0,0.8);
+}
+
+.nav-tabs  li  a:focus{
+	color: #555;
+	background-color: rgba(0,0,0,0.6);
+	border-color: rgba(0,0,0,0.8);
+}
+
+.container .row .col-md-8{
+	margin: 20px 20px 20px 50px;
+	background-color: rgba(255,255,255,0.4);
+	color: #333;
+}
+
+.container .row .col-md-12{
+	margin: 10px 10px 10px 10px;
+}
+
+.container .row .col-md-12 h3{
+	color: #ffffff;
+}
+
+.col-md-12 p{
+	font-size: 16px;
+}
+
+.col-md-2{
+	margin-top: 20px;
+}
+
+.panel-footer{
+	background-color: transparent;
+	color: #222;
+}
+
+.panel-footer p{
+	font-size: 14px;
+}
